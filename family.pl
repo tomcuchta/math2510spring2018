@@ -1,3 +1,7 @@
+% This is family tree information based on the tree 
+% that appears in the 16 January 2018 notes.
+% http://tomcuchta.com/teach/classes/2018/MATH-2510-Spring-2018-FairmontState/notes/2018-16-01-relations.pdf
+
 male(jim).
 male(bob).
 male(joe).
